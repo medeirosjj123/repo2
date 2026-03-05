@@ -1,0 +1,21 @@
+activeTheme: classic
+siteName: CNX Agency
+colorScheme: light
+siteMode: local
+aiProvider: openai
+aiApiKey: ""
+canonicalUrl: ""
+companyPhone: ""
+companyWhatsapp: ""
+generateSitemap: true
+generateRobots: true
+robotsDisallow:
+  - /admin
+  - /api
+# Estrutura de permalink dos posts
+# blogUrlPrefix: blog = /blog/slug | root = /slug (sem /blog)
+# postname | year_month | year_month_day
+blogPermalinkStructure: postname
+blogUrlPrefix: blog
+# Atualizações automáticas do template (workflow .github criado ao ativar)
+autoUpdateEnabled: false
